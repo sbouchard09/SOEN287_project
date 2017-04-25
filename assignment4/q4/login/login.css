@@ -1,0 +1,31 @@
+body {background-color:#DAF7A6;}
+h2
+{
+    font-family:sans-serif;
+    color:darkred;
+}
+legend
+{
+    font-weight:bold;
+}
+div
+{
+    font-family:sans-serif
+}
+.instructions
+{
+    border-color:black;
+    font-size:10pt;
+}
+.error
+{
+    color:red;
+    font-weight:bold;
+    font-size:14pt;
+}
+.buttons
+{
+    background-color:#A6F7EB;
+    color:black;
+    border:2px solid black;
+}

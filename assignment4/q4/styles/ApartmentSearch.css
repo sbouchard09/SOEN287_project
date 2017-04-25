@@ -1,0 +1,67 @@
+body {
+    background-color:#DAF7A6;
+    font-family:sans-serif;
+}
+fieldset
+{ font-size:10pt; }
+h2
+{ color:darkred; }
+.f_top 
+{
+    background-color:#FFC733;
+    border-color:red;
+}
+.f_bottom 
+{
+    background-color:#9FFF33;
+    border-color:blue;
+}
+.f_expert
+{
+    background-color:#ECFF33;
+    border-color:gray;
+    visibility:hidden;
+}
+legend
+{
+    font-size:15pt;
+    font-weight:bold;
+}
+.l_top { color:red; }
+.l_bottom { color:blue; }
+.l_expert { color:gray; }
+.l_inst { font-size:10pt; }
+label
+{
+    font-size:12pt;
+    font-weight:bold;
+}
+.buttons
+{
+    background-color:#A6F7EB;
+    color:black;
+    border:2px solid black;
+}
+div
+{
+    font-family:sans-serif
+}
+.listings
+{
+    border: 1px solid black;
+}
+.instructions
+{
+    border-color:black;
+    font-size:10pt;
+}
+.error
+{
+    color:red;
+    font-weight:bold;
+    font-size:14pt;
+}
+.footer
+{
+    background-color:floralwhite;
+}

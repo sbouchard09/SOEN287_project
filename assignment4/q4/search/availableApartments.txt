@@ -1,0 +1,14 @@
+Downtown;4455 René-Levesque;5 1/2;pool,gym,indoor parking;cat,dog;1500
+Downtown;12567 Sainte-Catherine;Studio;indoor parking,outdoor parking;no pets;750
+Downtown;22 Sherbrooke;3 1/2;pool,indoor parking;cat;790
+Downtown;55 Peel;Studio;indoor parking;no pets;730
+Downtown;99 Guy;5 1/2;outdoor parking;no pets;1450
+Downtown;1234 De La Montagne;2 1/2;indoor parking,outdoor pool;cat;800
+West Island;4555 boul. St-Jean;4 1/2;outdoor parking,indoor pool,balcony;no pets;750
+NDG;123 Sherbrooke;3 1/2;balcony;cat,dog;600
+NDG;23 West Broadway;4 1/2;balcony;cat;675
+West Island;333 Gouin;5 1/2;outdoor parking,outdoor pool,balcony;dog,cat;800
+West Island;100 Des Sources;4 1/2;outdoor parking,balcony;no pets;900
+West Island;4500 Hymus;3 1/2;outdoor parking,indoor parking,balcony,indoor pool;cat,dog;900
+NDG;23 Coronation;Studio;balcony;cats,dogs;600
+NDG;500 Monkland;2 1/2;balcony,indoor parking;cats,dogs;700
